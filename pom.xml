@@ -87,11 +87,6 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-mail</artifactId>
         </dependency>        <!-- Dependência interna -->
-        <dependency>
-            <groupId>br.com.fiap</groupId>
-            <artifactId>JavaGS</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
     </dependencies>
     <dependencyManagement>
         <dependencies>
